@@ -12,9 +12,18 @@
 Included with your pull request, you must submit answers to the following questions:
 
 * What do you think we were trying to get you to learn with this challenge?
+Work with different classes and get them to communicate with and pass data back and forth. Use the refactor methods and practice hiding the delegate.
 * Outline in words (at least 5-6 sentences) what your code is doing in order to solve this problem.
+I created an activity class that deals with the participants and when I needed to call out the participant information I utilized having the shovel on activity and list activities method so you call the methods on the activities array.
 * What was the most difficult portion of this for you?
+Time, I didn't feel particularly stumped on any parts but sometimes couldn't figure out how I would iterate over a bigger piece of code. The nested collections.
 * What came naturally to you?
+I felt like knowing which object I was working with or how I needed to call it out is coming more naturally to me.
+
+
+
+
+
 
 ## Tasks
 
